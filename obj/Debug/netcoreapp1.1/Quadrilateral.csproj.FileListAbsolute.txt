@@ -1,0 +1,8 @@
+/home/bhupesh/Documents/dotnet core/Quadrilateral/bin/Debug/netcoreapp1.1/Quadrilateral.deps.json
+/home/bhupesh/Documents/dotnet core/Quadrilateral/bin/Debug/netcoreapp1.1/Quadrilateral.runtimeconfig.json
+/home/bhupesh/Documents/dotnet core/Quadrilateral/bin/Debug/netcoreapp1.1/Quadrilateral.runtimeconfig.dev.json
+/home/bhupesh/Documents/dotnet core/Quadrilateral/bin/Debug/netcoreapp1.1/Quadrilateral.dll
+/home/bhupesh/Documents/dotnet core/Quadrilateral/bin/Debug/netcoreapp1.1/Quadrilateral.pdb
+/home/bhupesh/Documents/dotnet core/Quadrilateral/obj/Debug/netcoreapp1.1/Quadrilateral.AssemblyInfo.cs
+/home/bhupesh/Documents/dotnet core/Quadrilateral/obj/Debug/netcoreapp1.1/Quadrilateral.dll
+/home/bhupesh/Documents/dotnet core/Quadrilateral/obj/Debug/netcoreapp1.1/Quadrilateral.pdb
